@@ -149,8 +149,3 @@ ul i{
         flex-direction: column;
     }
 }
-@media screen and (max-width:414px) {
-    .container-inicio{
-        flex-direction: column;
-    }
-}
