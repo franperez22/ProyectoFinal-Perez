@@ -16,7 +16,7 @@
     font-family: 'Roboto Mono', monospace;
 }
 .nav-link:hover{
-    background-color: rgb(207, 207, 207);
+    background-color: rgb(246, 235, 235);
     transition: 0.5s;
     border-radius: 2px;
     padding: 2px 2px;
@@ -116,31 +116,10 @@
     align-items: center;
     justify-content: center;
 } */
-.card-buzo{
-    margin-left: 20px;
-}
-.card-buzo img{
-    width: auto;
-    height: 350px;
-}
 .card-pant img{
     width: 100%;
     height: auto;
     border-radius: 4px 4px 0 0;
-}
-.card-rm{
-    margin-left: 20px;
-} 
-.card-rm img{
-    width: auto;
-    height: 300px;
-}
-.card-ac{
-    margin-left: 20px;
-}
-.card-ac img{
-    width: auto;
-    height: 300px;
 }
 .bg-title{
     display: flex;
@@ -165,7 +144,6 @@ ul i{
     width: 40px;
     height: auto;
 }
-
 @media screen and (max-width: 500px) {
     footer {
         flex-direction: column;
